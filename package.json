@@ -1,0 +1,12 @@
+{
+    "name": "REVS-APP",
+    "version":  "0.1.0",
+    "main": "main.js",
+    "dependencies": {
+        "request-promise":  "*",
+        "electron": "*"
+    }
+}
+
+
+
