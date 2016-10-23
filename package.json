@@ -1,10 +1,11 @@
 {
     "name": "REVS-APP",
+    "author": "Edi Santoso <repodevs@gmail.com>",
     "version":  "0.1.0",
     "main": "main.js",
-    "dependencies": {
+    "devDependencies": {
         "request-promise":  "*",
-        "electron": "*"
+        "electron": "^1.4.4"
     }
 }
 
