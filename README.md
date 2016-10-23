@@ -12,7 +12,7 @@ run your odoo aplication
 
 `electron .`
 
-** BUILD TO WINDOWS APLICATION **
+**BUILD TO WINDOWS APLICATION**
 
 `sudo npm install electron-packager -g`
 
